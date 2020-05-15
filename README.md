@@ -1,7 +1,7 @@
 # FileManager_CSharp_Console
 File manager written on C# 
 
-File Manager describe:
+File Manager description:
 
 1.) Interface
 
