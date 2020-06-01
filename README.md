@@ -65,7 +65,7 @@ Also, in special cases, displays information that the user is viewing a history 
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/InfoWindow.PNG?raw=true)
 
 3. The left window for selecting logical drives. Allows you to select the drive with which user will interact.
-The disc selected by the user is highlighted. Below this window is a small square that displays your current page.
+The disc selected by the user is highlighted. Below disk info panel is a small red square that displays your current page.
 
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/DiscWindow.PNG?raw=true)
 
@@ -75,8 +75,8 @@ It is located under the logical drive selection window and displays useful infor
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/StatusWindow.PNG?raw=true)
 
 5. The right window for selecting files and directories. 
-Allows you to interact with files and directories that are on the disk. 
-Also used to display a list of statistics and history. The selected user file is highlighted. 
+Allows you to interact with files and directories, which are on the disk. 
+Also used to display a list of statistic and history. The selected user file is highlighted. 
 Similar to the logical drive window, there is a small red square that displays the current page.
 
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/FileWindow.PNG?raw=true)
