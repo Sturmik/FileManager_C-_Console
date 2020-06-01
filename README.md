@@ -7,7 +7,7 @@ File Manager description:
 
 First time app runs, it will adapt for the screen resolution.
 It takes screen resolution values and builds the interface,
-the number and location of interactive buttons, and so on. 
+the number, location of interactive buttons, and so on. 
 
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/MainMenu2.PNG?raw=true)
 
