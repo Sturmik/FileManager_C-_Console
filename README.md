@@ -18,8 +18,8 @@ but the opposite is entirely acceptable up to expanding the console window to fu
 
 2.) First launch
 
-First you start the programm, you will be asked to register a user - the administrator,
-who will have the greatest rights among other users and have them individually.
+First time you start the program, you will be asked to register a user - the administrator,
+who will have the greatest rights among other users, which will be his individually.
 
 ![alt text](https://github.com/Sturmik/FileManager_CSharp_Console/blob/master/ShowcaseImages/LoginIn.PNG?raw=true)
 
